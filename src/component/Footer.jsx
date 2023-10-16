@@ -7,7 +7,7 @@ function Footer() {
       <div className="row">
         <div className="col-xs-12 col-sm-6 col-md-3">
           <div className="widget subscribe no-box">
-            <img className="img-fluid" src="src\assets\images\logo-nutrikid-text.png" alt="logofooter"/>
+            <img className="img-fluid" src="src/assets/images/logo-nutrikid-text.png" alt="logofooter"/>
             <p>XYZ Tower</p>
             <p>Jl. Kemana Saja No. 15</p>
             <p>Jakarta </p>
